@@ -1,0 +1,52 @@
+h1{
+	color:white;
+	font size: 90px;
+	font-family: 'Arial', serif
+}
+
+body{
+
+	background-color:#212121 ;
+}
+
+div#heading_box {
+	border-width:2px;
+	border-style: solid;
+	margin: 10px;
+	text-align:center; 
+	/*alligns the words into the centre*/
+	font-size: 150px
+}
+
+
+.row{
+	background-color:#21ce99 ;
+	font-size: 20px;
+	font-family: 'Arial', serif;
+	border:2px solid black;
+	text-align:center;
+}
+/*any class named with_blue will be colored blue, ie the divisions are assigned with_blue*/
+
+
+.col-md-4{
+
+	background-color:#21ce99 ;
+	font-size: 20px;
+	font-family: 'Arial', serif;
+	border:2px solid black;
+	text-align:center;
+	margin:1px;
+	padding:10px;
+
+
+}
+
+
+.column{
+	background-color:#21ce99 ;
+	font-size: 20px;
+	font-family: 'Arial', serif;
+}
+
+
